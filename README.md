@@ -1,7 +1,6 @@
 # Applied-Data-Science-Portfolio
 
 ## Winston Vu
-  SUID: wvu100
   
   Email: wvu100@syr.edu
 
