@@ -13,4 +13,4 @@ The Applied Data Science program at Syracuse University provides the with the ab
 1. Resume
 2. Portfolio Report
 3. Projects, Reports, Code, Powerpoints from the 4 classes
-
+4. Portfolio Slidedeck
